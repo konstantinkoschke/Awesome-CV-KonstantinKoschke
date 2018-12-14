@@ -6,8 +6,8 @@
   <a href="https://circleci.com/gh/konstantinkoschke/Awesome-CV-KonstantinKoschke">
     <img alt="CircleCI" src="https://circleci.com/gh/konstantinkoschke/Awesome-CV-KonstantinKoschke.svg?style=shield" />
   </a>
-  <a href="https://raw.githubusercontent.com/konstantinkoschke/Awesome-CV-KonstantinKoschke/master/examples/resume.pdf">
-    <img alt="Resume - Konstantin Koschke" src="https://img.shields.io/badge/resume-pdf-green.svg" />
+  <a href="https://raw.githubusercontent.com/konstantinkoschke/Awesome-CV-KonstantinKoschke/master/examples/konstantin_koschke_resume.pdf">
+    <img alt="Resume - Konstantin Koschke" src="https://img.shields.io/badge/konstantin_koschke_resume-pdf-green.svg" />
   </a>
 </div>
 
